@@ -1,0 +1,7 @@
+virtual env starten mit: source myvenv/bin/activate
+man xy erklärt command
+comparing things: >, >=, ==, <=, <, and, or
+Boolean: True or False
+Saving files: storing code for executing larger programs
+if...elif...else: statements that allow you to execute code only when certain conditions are met
+#comments: lines that python won't run 
